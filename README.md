@@ -6,6 +6,7 @@
 
 - [Acerca de](#Acerca-de)
 - [Estructura del repositorio](#Estructura-del-repositorio)
+- [Requisitos previos](#Requisitos-previos)
 
 ### Acerca de
 
@@ -32,3 +33,8 @@ Este repositorio contiene diferentes conjuntos de programas básicos realizados 
 5. **Estructura de datos**
 
    - **Descripción**: Ejercicios que exploran estructuras de datos como listas, diccionarios, tuplas y sets, esenciales para almacenar y manipular colecciones de datos en Python.
+
+### Requisitos previos
+
+- Python 3.x
+- Editor de código recomendado: Visual Studio Code, PyCharm, etc.
