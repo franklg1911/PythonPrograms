@@ -1,6 +1,6 @@
 # Python Programs
 
-¡Bienvenido a mi repositorios de proyectos de python 👋🟡! Este repositorio contiene una colección de proyectos de python que he desarrollado para agilizar mis conocimientos de este lenguaje, desde los funcionamientos básicos hasta los avanzados que voy aprendiendo.
+¡Bienvenido a mi repositorios de proyectos de python 🟡! Este repositorio contiene una colección de proyectos de python que he desarrollado para agilizar mis conocimientos de este lenguaje, desde los funcionamientos básicos hasta los avanzados que voy aprendiendo.
 
 ### Tabla de contenido
 
@@ -11,7 +11,7 @@
 
 Este repositorio contiene diferentes conjuntos de programas básicos realizados con el lenguaje python organizados por temas o conceptos. Cada carpeta aborda un aspecto esencial del lenguaje Python y está diseñada para ayudar a desarrollar habilidades prácticas en programación.
 
-### Estructura del proyecto
+### Estructura del proyecto 🐍
 
 1. **Sintaxis básica**
 
